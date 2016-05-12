@@ -127,7 +127,3 @@ endfunction
 autocmd FileType text setlocal foldmethod=manual
 autocmd FileType javascript setlocal foldmethod=expr foldexpr=JSfold()
 
-"------------------------------------"
-"--------------SQL Setup------------"
-"------------------------------------"
-
