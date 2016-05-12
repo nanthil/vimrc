@@ -131,4 +131,3 @@ autocmd FileType javascript setlocal foldmethod=expr foldexpr=JSfold()
 "--------------SQL Setup------------"
 "------------------------------------"
 
-let g:dbext_default_profile_Dev05 = 'type=SQLSRV:user=EARTHWEB\\nathan.rogers:passwd=TK421yrntu@ur!:host=DCOSQL02.ontargetjobs.com:dbname=OTJJobBoardDB'
